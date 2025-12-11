@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+.env
+.venv
+outputs/
+node_modules/
+*.npy
+.DS_Store
+.pytest_cache/
+.coverage
+htmlcov/
